@@ -22,7 +22,8 @@ body {
 }
 
 .image {
-    margin: auto;
+    margin-top: 15px;
+    padding: 0;
 }
 
 .image img {
@@ -33,8 +34,10 @@ body {
 
 .text h1 {
     font-size: 23px;
+    margin: 0;
 }
 
 .text p {
     color: gray;
+    margin: 0;
 }
