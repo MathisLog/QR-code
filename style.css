@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "Rubik Medium";
+    src: url(./font/Rubik-Light.ttf);
+}
+
+* {
+    padding: 10px;
+    font-family: 'Rubik Medium', Courier, monospace;
+}
+
+body {
+    height: 100vh;
+    background-color: #D5E1EF;
+}
+
+.card {
+    width: 350px;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+    background-color: #fff;
+}
+
+.image {
+    margin: auto;
+}
+
+.image img {
+    width: 300px;
+    padding: 0;
+    border-radius: 20px;
+}
+
+.text h1 {
+    font-size: 23px;
+}
+
+.text p {
+    color: gray;
+}
